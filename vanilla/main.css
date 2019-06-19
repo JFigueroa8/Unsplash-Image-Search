@@ -1,0 +1,18 @@
+body {
+    width: 80%;
+    margin: 2em auto 0 auto;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images {
+    column-count: 3;
+}
+
+img {
+    width: 100%;
+}
