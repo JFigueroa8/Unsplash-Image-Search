@@ -2,7 +2,7 @@
 # Build an Image Search App with:
 ## Vanilla JS and React.js
 
-Both apps will contact to the Unsplash Image Search API.
+Both apps will connect to the Unsplash Image Search API.
 
 Both apps will use the skeleton CSS framework:
 
