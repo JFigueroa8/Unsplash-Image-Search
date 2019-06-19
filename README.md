@@ -1,10 +1,10 @@
 # Unsplash-Image-Search
 # Build an Image Search App with:
-## Vanilla JS and React.js
+## Vanilla JS, React.js and Vue.js
 
-Both apps will connect to the Unsplash Image Search API.
+Apps will connect to the Unsplash Image Search API.
 
-Both apps will use the skeleton CSS framework:
+Apps will use the skeleton CSS framework:
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
@@ -37,6 +37,16 @@ body {
 * [x] Hide loading image
 
 ## React.js
+---
+
+* [x] Add search form to page
+* [x] Update state when input changes
+* [x] Make API Request with search term when form is submitted
+* [x] Show loading image
+* [x] Append Results to the page
+* [x] Hide loading image
+
+## Vue.js
 ---
 
 * [x] Add search form to page
